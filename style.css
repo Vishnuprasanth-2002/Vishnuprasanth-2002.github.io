@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  text-decoration: none;
+  scroll-behavior: smooth;
+}
+:root {
+  --text-color: #fff;
+  --bg_colo: #1b1f24;
+  --second_bg_color: #22282f;
+  --mainn-color: #13bbff;
+  --other-color: #c3cad5;
+  --h1-font: 4.5rem;
+  --h2-font: 2.9rem;
+  --p-font: 1rem;
+}
