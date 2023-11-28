@@ -158,3 +158,24 @@ section {
   background: var(--main-color);
   color: var(--bg_color);
 }
+.sticky {
+  background: var(--bg_color);
+  box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.2);
+  padding: 16px 16%;
+}
+.about {
+  background: var(--second_bg_color);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  gap: 1rem;
+}
+.about img {
+  width: 100%;
+  height: 430px;
+  max-width: 430px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 7px solid var(--main-color);
+  box-shadow: 0 0 20px var(--main-color);
+}
