@@ -172,8 +172,8 @@ section {
 }
 .about img {
   width: 100%;
-  height: 430px;
-  max-width: 430px;
+  height: 350px;
+  max-width: 350px;
   border-radius: 50%;
   object-fit: cover;
   border: 7px solid var(--main-color);
