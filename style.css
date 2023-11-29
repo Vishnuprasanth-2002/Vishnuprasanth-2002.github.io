@@ -199,6 +199,12 @@ section {
   font-weight: 400;
   margin-left: 8px;
 } 
+.center-text{
+  text-align: center;
+}
+.center-text h2{
+  font-size: var(--h2-font);
+}
 .portfolio-content {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, auto));
