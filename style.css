@@ -193,6 +193,12 @@ section {
   font-size: var(--p-font);
   line-height: 42px;
 }
+.exp-area p span.links {
+  color: var(--main-color);
+}
+.exp-area p span.links:hover {
+  color: blue;
+}
 .exp-area p span {
   color: var(--other-color);
   font-size: var(--p-font);
@@ -269,7 +275,7 @@ section {
 }
 form input,
 form textarea {
-  width: 100%;
+  width: 90%;
   padding: 20px;
   border: none;
   outline: none;
