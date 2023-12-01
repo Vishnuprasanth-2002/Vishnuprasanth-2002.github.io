@@ -322,7 +322,7 @@ form .send-btn:hover {
   header {
     padding: 20px 5%;
   }
-  header.stricky {
+  header.sticky {
     padding: 14px 5%;
   }
   section {
