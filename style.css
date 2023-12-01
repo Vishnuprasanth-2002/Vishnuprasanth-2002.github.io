@@ -254,6 +254,9 @@ section {
   transform: translateY(-5px) scale(1.03);
   cursor: pointer;
 }
+.contact {
+  background: var(--second_bg_color);
+}
 .contact-form {
   display: flex;
   align-items: center;
@@ -390,7 +393,7 @@ form .send-btn:hover {
   }
 }
 @media (max-width: 470px) {
-  .about-img img {  
+  .about-img img {
     height: 320px;
     max-width: 320px;
   }
