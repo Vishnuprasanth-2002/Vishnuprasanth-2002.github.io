@@ -84,9 +84,6 @@ section {
 .hero {
   height: 100vh;
   width: 100%;
-  background: url();
-  background-position: top right;
-  background-size: cover;
   display: flex;
   align-items: center;
   justify-content: flex-start;
